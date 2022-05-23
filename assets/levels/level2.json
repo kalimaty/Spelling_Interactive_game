@@ -1,0 +1,29 @@
+{
+  "remaining_time": 60,
+  "words" : [
+   
+    {
+      "english" : "Carrot",
+      "arabic"  : "جزر",
+      "image_path" : "assets/images/carrot.png",
+      "sound_path_ar" : "assets/sounds/carrot.mp3",
+      "sound_path_en" : "assets/sounds/carrot.mp3"
+    },
+    {
+      "english" : "Dog",
+      "arabic"  : "كلب",
+      "image_path" : "assets/images/dog.png",
+      "sound_path_ar" : "assets/sounds/dog.mp3",
+      "sound_path_en" : "assets/sounds/dog.mp3"
+    },
+  
+    {
+      "english" : "Hand",
+      "arabic"  : "يد",
+      "image_path" : "assets/images/hand.png",
+      "sound_path_ar" : "assets/sounds/hand.mp3",
+      "sound_path_en" : "assets/sounds/hand.mp3"
+    }
+    
+  ]
+}

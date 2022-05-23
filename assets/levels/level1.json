@@ -1,0 +1,21 @@
+{
+  "remaining_time": 50,
+  "words" : [
+   
+    {
+      "english" : "Banana",
+      "arabic"  : "موزة",
+      "image_path" : "assets/images/banana.png",
+      "sound_path_ar" : "assets/sounds/banana.mp3",
+      "sound_path_en" : "assets/sounds/banana.mp3"
+    },
+    {
+      "english" : "Bear",
+      "arabic"  : "دب",
+      "image_path" : "assets/images/bear.png",
+      "sound_path_ar" : "assets/sounds/bear.mp3"
+      ,"sound_path_en":"assets/sounds/bear.mp3"
+    }
+  
+  ]
+}
