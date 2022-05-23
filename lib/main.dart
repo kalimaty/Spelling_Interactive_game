@@ -43,6 +43,7 @@ class MainPage extends StatefulWidget {
 
 class _MainPageState extends State<MainPage> {
   AudioPlayer player = AudioPlayer();
+  // init state
   @override
   void initState() {
     GetStorage().writeIfNull("level", 1);
